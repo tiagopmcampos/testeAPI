@@ -1,0 +1,9 @@
+{
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "n1": 10.0, "n2": 9.0 },
+    { "id": 2, "nome": "José Luiz Felipe", "n1": 8.0, "n2": 9.5 },
+    { "id": 3, "nome": "Paulo Rogério", "n1": 7.0, "n2": 8.0 },
+    { "id": 4, "nome": "Felipe da Cunha", "n1": 9.0, "n2": 7.0 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "n1": 10.0, "n2": 10.0 }
+  ]
+}
